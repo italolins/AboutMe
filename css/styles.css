@@ -1,0 +1,28 @@
+body{
+    background-color: #b2ebf2;
+}
+
+hr{
+    background-color: inherit;
+    color: #77d8d8;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    width: 5%;
+}
+
+img{
+    height: 10%;
+}
+
+h1{
+    color: #0779b0;
+}
+
+h2{
+    color: #0779e4;
+}
+
+h3{
+    color: #0779e4;
+}
