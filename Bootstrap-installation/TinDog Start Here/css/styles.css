@@ -11,7 +11,7 @@ h1{
 }
 
 h3{
-    font-family: 'Montserrat-bold', sans-serif;
+    font-family: 'Montserrat-Bold', sans-serif;
     font-size: 1.5rem;
     font-weight: bold;
 }
@@ -65,8 +65,7 @@ h3{
 
 /* Feature Icons */
 .features-icon{
-    font-size: 48px;
-    margin: 10% 0%;
+    margin-bottom: 1rem;
     color: #EF8172;
 }
 
